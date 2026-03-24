@@ -202,13 +202,16 @@ python main.py \
 ## Citation
 
 ```bibtex
-@article{han2025iikea,
+@inproceedings{han2025iikea,
   title     = {No Black Boxes: Interpretable and Interactable Predictive Healthcare
                with Knowledge-Enhanced Agentic Causal Discovery},
   author    = {Han, Xiaoxue and Hu, Pengfei and Lu, Chang and Ding, Jun-En
                and Liu, Feng and Ning, Yue},
-  journal   = {arXiv preprint arXiv:2505.16288},
-  year      = {2025}
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in
+               Natural Language Processing (EMNLP)},
+  year      = {2025},
+  month     = {November},
+  address   = {Suzhou, China}
 }
 ```
 
