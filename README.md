@@ -1,9 +1,9 @@
-# II-KEA: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery
+# II-KEA: No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery
 
 > **No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery**
 > Xiaoxue Han, Pengfei Hu, Chang Lu, Jun-En Ding, Feng Liu, Yue Ning
 > Stevens Institute of Technology
-> arXiv:2505.16288
+> EMNLP 2025
 
 ---
 
