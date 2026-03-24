@@ -5,6 +5,8 @@
 > Stevens Institute of Technology
 > EMNLP 2025
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2505.16288-b31b1b)](https://arxiv.org/abs/2505.16288)  [![Demo](https://img.shields.io/badge/Demo-Webpage-8b5cf6)](https://hanxiaoxue114.github.io/IIKEA/)
+
 ---
 
 ## Overview
